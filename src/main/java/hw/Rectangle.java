@@ -1,3 +1,5 @@
+package hw;
+
 public class Rectangle {
 
     double length, width;
